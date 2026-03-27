@@ -108,7 +108,7 @@ This skill makes Claude Code automatically run through a region verification flo
 
 ### Option 1: Install via .skill file
 
-Download [china-api-config.skill](https://github.com/your-username/china-api-config/releases), then in Claude Code:
+Download [china-api-config.skill]([china-api-config](https://github.com/qiaofeng6688/qiaofeng-skills/tree/4e5e66f1a936a78563ee5bbf8c3485c612bfd516/china-api-config)), then in Claude Code:
 
 ```
 /install-skill china-api-config.skill

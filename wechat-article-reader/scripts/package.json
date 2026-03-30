@@ -1,0 +1,8 @@
+{
+  "name": "wechat-article-reader-scripts",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "linkedom": "^0.18.12"
+  }
+}
